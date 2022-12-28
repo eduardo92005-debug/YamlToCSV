@@ -1,0 +1,78 @@
+respostas:
+  - ana.c: https://github.com/ana/husdhudh
+  - ana.sil: https://github.com/anasil/ddassqw
+  - beatriz.este: https://github.com/beatriz/ksisjis
+  - breno.sil: https://github.com/brenosil/fefddwdw
+  - bruna.tula: https://github.com/brunaandrade/lolodx
+ 
+instrucoes-correcao:
+  descricao: Voce vai julgar os trabalhos das pessoas de acordo com alguns criterios
+  entregou: 0 ou 1. Se a pessoa tá de ferias, o prazo dela termina 2 semanas depois que ela voltar. Se nao tiver voltado, deixa em branco.
+  passou-do-prazo: quantos dias depois do prazo isso foi entregue (inteiro negativo=adiantado, 0 ou positivo=atrasado)
+  facilidade-de-reproduzir: Consegui rodar o codigo facilmente. o Readme me ajudou
+  legibilidade: Consegui entender e modificar o codigo do colega
+  feedback-positivo:
+  feedback-melhorar:
+  rank: Posicao na lista de melhor pro pior dentre os que vc corrigiu (e foram entregues)
+  tarefas:
+    life-python:
+      objetivo-primario: life funcionando
+      objetivo-secundario: separacao clara entre lógica de apresentação e algoritmo
+    life-vue:  
+      objetivo-primario: life funcionando
+      objetivo-secundario: separacao clara entre lógica de apresentação e algoritmo, com implementação correta no vue
+correcoes:
+  life-python:
+    ana.col:
+      bruna.tula:
+        entregou: 1
+        passou-do-prazo: 0
+        facilidade-de-reproduzir: 4
+        legibilidade: 2
+        feedback-positivo: Gostei dos emojis no python
+        feedback-melhorar: Use nome de variaveis mais claros. Ficou dificil de entender a sua intenção com aquelas variaveis x, y e z
+        rank: 2
+        objetivo-primario: 5
+        objetivo-secundario: 3
+      breno: 0
+      ana.col: 0
+      beatriz: 0
+  life-vue:
+    ana.col:
+      bruna.tula:
+        entregou: 1
+        passou-do-prazo: 0
+        facilidade-de-reproduzir: 4
+        legibilidade: 2
+        feedback-positivo: Gostei dos emojis no python
+        feedback-melhorar: Use nome de variaveis mais claros. Ficou dificil de entender a sua intenção com aquelas variaveis x, y e z
+        rank: 2
+        objetivo-primario: 5
+        objetivo-secundario: 3
+      breno: 0
+      ana.col: 0
+      beatriz: 0
+  life-teste:
+    ana.col:
+      bruna.tula:
+        entregou: 1
+        passou-do-prazo: 0
+        facilidade-de-reproduzir: 4
+        legibilidade: 2
+        feedback-positivo: Gostei dos emojis no python
+        feedback-melhorar: Use nome de variaveis mais claros. Ficou dificil de entender a sua intenção com aquelas variaveis x, y e z
+        rank: 2
+        objetivo-primario: 5
+        objetivo-secundario: 3
+      breno: 0
+      ana.col: 
+        entregou: 1
+        passou-do-prazo: 0
+        facilidade-de-reproduzir: 4
+        legibilidade: 2
+        feedback-positivo: Gostei dos emojis no python
+        feedback-melhorar: Use nome de variaveis mais claros. Ficou dificil de entender a sua intenção com aquelas variaveis x, y e z
+        rank: 2
+        objetivo-primario: 5
+        objetivo-secundario: 3
+      beatriz: 0
