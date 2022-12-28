@@ -16,4 +16,16 @@ Para executar o arquivo principal chamado yaml_to_csv, você deve primeiro insta
 Depois de instalar as dependências, você pode executar o arquivo principal usando o comando python yaml_to_csv.py. Esse comando irá iniciar o programa e ele deverá começar a converter o arquivo YAML para o formato CSV.
 
 Lembre-se de que, para que o programa funcione corretamente, é necessário que o arquivo YAML esteja no mesmo diretório do arquivo principal yaml_to_csv.py e que o nome do arquivo YAML seja especificado no código do programa. Além disso, o programa criará um novo arquivo CSV com o conteúdo convertido, que será salvo no mesmo diretório do arquivo principal.
-Descomente as linhas 96 em diante, entao, basta executar o programa principal.
+## 📦 Passo a passo
+  - Antes de tudo, descompacte o programa e abra o terminal.
+  - Utilize o comando ```cd``` e digite o caminho do programa descompactado.
+  - Digite o comando: ``` python3 venv venv ```
+  - O comando acima ira iniciar um ambiente virtual.
+  - Se estiver no Linux: ``` source venv/bin/activate ```
+  - Se estiver no Windows: ``` venv\bin\Activate ```
+  - Digite o comando: ``` pip install -r requirements.txt ```
+  - Agora para executar o projeto, digite: ``` python3 yaml_to_csv.py ```
+  - Aguarde, e assim que terminar sera criado um arquivo csv.
+  - Abra-o.
+  - Finalizado!
+OBS: DESCOMENTE TUDO A PARTIR DA LINHA 96 EM DIANTE.
